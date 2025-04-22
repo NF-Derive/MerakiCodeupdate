@@ -9,3 +9,4 @@ The script performs the following main tasks:
     It fetches a list of network devices for that organization.
     For each device in the list from the file, it checks if it exists in the network devices and retrieves available firmware versions.
     The user can select a firmware version to update the devic
+It is for updating device firmware
